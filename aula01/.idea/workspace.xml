@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8652838a-49b7-4da4-a822-a9b0d81fd360" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aULrkkBnxZyOUkd1TU2i40sF8Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../globo-env/tvg-agencia" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8652838a-49b7-4da4-a822-a9b0d81fd360" name="Default Changelist" comment="" />
+      <created>1586785427346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586785427346</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586785485632">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="583" y="220" width="424" height="484" key="FileChooserDialogImpl/0.27.1600.873@0.27.1600.873" timestamp="1586785485632" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1586785451522">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.27.1600.873@0.27.1600.873" timestamp="1586785451522" />
+  </component>
+</project>
